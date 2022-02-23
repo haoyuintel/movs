@@ -1,6 +1,8 @@
 # movs
 Inline assembly for researching the memory copy with using MOVS and MOV.
 An experiment has been done for testing the time consuming with different length of string. The results are shown as following:
+CPU: i7-11700, copy cycle for each instruction: 5M
+
 <table class="MsoNormalTable" border="1" cellspacing="0" cellpadding="0" title="" summary="" style="border-collapse:collapse;border:none;mso-border-alt:solid #A3A3A3 1.0pt;
  mso-yfti-tbllook:1184;mso-padding-alt:0in 0in 0in 0in">
  <tbody><tr style="mso-yfti-irow:0;mso-yfti-firstrow:yes">
